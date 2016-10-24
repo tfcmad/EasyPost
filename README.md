@@ -1,2 +1,2 @@
 # EasyPost
-A simple android application to post to a server
+A simple android application to post data to a server
